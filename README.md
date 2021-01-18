@@ -11,6 +11,11 @@ Edit config.plist with your server ip
 Step 3:
 Make
 
-<br/><br/>
 Download backend from:
 https://github.com/deveperl99/WhatsApp-Clone-Server
+<br/><br/>
+Download Android Source from:
+https://github.com/deveperl99/WhatsApp-Clone-Android-Source
+<br/><br/>
+Download WEB Source from:
+https://github.com/deveperl99/WhatsApp-Clone-WEB-Source
